@@ -4,3 +4,5 @@
 向往的生活
 
 this is exam1
+
+淡泊
